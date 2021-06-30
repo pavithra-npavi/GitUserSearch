@@ -1,0 +1,6 @@
+.wrapDiv{
+    display:flex;
+    flex-wrap: wrap;
+    /* border: 1px solid ; */
+    margin: 50px;
+}
