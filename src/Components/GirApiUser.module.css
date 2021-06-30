@@ -1,6 +1,27 @@
-.wrapDiv{
-    display:flex;
-    flex-wrap: wrap;
-    /* border: 1px solid ; */
-    margin: 50px;
+.wrapDiv {
+  display: flex;
+  flex-wrap: wrap;
+  /* border: 1px solid ; */
+  margin: 50px;
+}
+input {
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid blue;
+}
+button {
+  margin-left: 10px;
+  width: 100px;
+  height: 35px;
+  color: maroon;
+  font-size: 18px;
+  background-color: mediumaquamarine;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+.main-container {
+  transform: translateY(20px);
 }

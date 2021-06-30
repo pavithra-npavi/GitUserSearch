@@ -43,6 +43,7 @@ const GitApiData = () => {
     <>
       {isLoading && <p> Loading...</p>}
       {isError && <p> Errorrrrrr</p>}
+
       <input
         type="text"
         name="user"
